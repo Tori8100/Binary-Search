@@ -1,3 +1,5 @@
+// Given a number n, return a list of all prime numbers smaller than or equal to n in ascending order.
+
 import java.util.*;
 
 class Solution {

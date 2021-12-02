@@ -1,3 +1,5 @@
+// Given an integer n, return the number of 1 bits in n.
+
 import java.util.*;
 
 class Solution {
